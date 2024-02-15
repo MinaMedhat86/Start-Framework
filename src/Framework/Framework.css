@@ -1,0 +1,12 @@
+#Framework {
+    background-color: var(--second-color);
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    margin-top: .4rem;
+}
+
+
