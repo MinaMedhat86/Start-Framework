@@ -15,16 +15,16 @@ export default function Footer() {
                     <h3 className='fw-semibolder'>AROUND THE WEB</h3>
                     <div className='social-icons d-flex justify-content-center'>
                         <div className="icon-item rounded-circle border border-white border-1">
-                        <i class="fa-brands fa-facebook-f text-white m-2 "></i>
+                        <i className="fa-brands fa-facebook-f text-white m-2 "></i>
                         </div>
                         <div className="icon-item mx-3 rounded-circle border border-white border-1">
-                        <i class="fa-brands fa-twitter text-white m-2 "></i>
+                        <i className="fa-brands fa-twitter text-white m-2 "></i>
                         </div>
                         <div className="icon-item rounded-circle border me-3 border-white border-1">
-                        <i class="fa-brands fa-linkedin-in text-white m-2 "></i>
+                        <i className="fa-brands fa-linkedin-in text-white m-2 "></i>
                         </div>
                         <div className="icon-item rounded-circle border border-white border-1">
-                        <i class="fa-solid fa-globe text-white m-2 "></i>
+                        <i className="fa-solid fa-globe text-white m-2 "></i>
                         </div>
                     </div>
                 </div>

@@ -6,7 +6,6 @@ import About from './About/About';
 import Portfolio from './Portfolio/Portfolio';
 import Framework from './Framework/Framework';
 import Contact from './Contact/Contact';
-
 import {RouterProvider, createBrowserRouter} from "react-router-dom";
 import Layout from './Layout/Layout';
 import Notfound from './Notfound/Notfound';

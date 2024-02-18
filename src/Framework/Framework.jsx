@@ -12,10 +12,10 @@ export default function Framework() {
         <div>
         <img src={svgImg} className=" w-75 ms-5" alt="" /> 
         <h1 className='fw-bolder text-white text-center mt-5'>START FRAMEWORK</h1>
-        <div class="d-flex my-3 text-white justify-content-center">
-        <div  class="line me-3"></div>
-        <i  class="fa-solid fa-star"></i>
-        <div class="line ms-3"></div>
+        <div className="d-flex my-3 text-white justify-content-center">
+        <div  className="line me-3"></div>
+        <i  className="fa-solid fa-star"></i>
+        <div className="line ms-3"></div>
       </div>
       <p className='text-white text-center'>Graphic Artist - Web Designer - Illustrator</p>
         </div>
